@@ -1,7 +1,7 @@
 # Next.js-LemonSqueezy-Boilerplate
 
 
-This project serves as a comprehensive boilerplate for building modern web applications with Next.js, incorporating user authentication, database management, and payment processing via Lemon Squeezy. It's designed to be a robust starting point for a SaaS application.
+This project serves as a comprehensive boilerplate for building modern web applications with Next.js, incorporating user authentication, database management, and payment processing via Lemon Squeezy. It's designed to be a robust starting point for a SaaS application. (Personal use as of now)
 
 This is a Next.js project bootstrapped with `create-next-app`.
 
