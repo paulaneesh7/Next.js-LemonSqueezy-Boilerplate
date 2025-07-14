@@ -38,8 +38,8 @@ export default function PricingPageComponent({ session }: {session: Session | nu
       }
 
       const { checkoutUrl } = await response.json();
-      // router.push(checkoutUrl);
-      window.open(checkoutUrl, "_blank");
+      router.push(checkoutUrl);
+      // window.open(checkoutUrl, "_blank");
 
     } catch (error) {
       console.error("Error initiating payment:", error);
